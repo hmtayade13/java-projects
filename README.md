@@ -1,1 +1,1 @@
-# java-projects
+# Deep Learning Projects
